@@ -2,12 +2,12 @@
 
 This project is an analysis of the Northwind sample database. The goal was to analyze sales, customers, discounts, and shipping performance, and build an interactive 2-page dashboard in Power BI.
 
-## 🛠️ Tools & Skills
+##  Tools & Skills
 *   **SQL Server (T-SQL):** Data exploration, JOIN, GROUP BY, and creating reusable Views.
 *   **Power BI:** Data modeling, simple DAX, interactive dashboards, slicers, and filters.
 *   **Dataset:** Northwind database (1996 to 1998).
 
-## 📈 Key Metrics
+##  Key Metrics
 *   **Net Sales:** `Quantity * UnitPrice * (1 - Discount)`
 *   **Total Orders:** Distinct count of orders
 *   **Average Order Value:** Net Sales / Total Orders
