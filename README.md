@@ -26,7 +26,7 @@ This project is an analysis of the Northwind sample database. The goal was to an
 All project files are organized inside the **`NorthwindProject`** folder. 
 For the SQL part, I separated the workflow into two files:
 1. **`NorthwindProject/Northwind_Analysis.sql`**: Contains the initial data exploration, cleaning, and general analytical queries (EDA).
-2. **`02_Northwind_Views.sql`**: Contains the final `CREATE VIEW` scripts. These views were specifically created to feed the Power BI model, keeping the dashboard fast and optimized.
+2. **`NorthwindProject/Northwind_Views.sql`**: Contains the final `CREATE VIEW` scripts. These views were specifically created to feed the Power BI model, keeping the dashboard fast and optimized.
 
 *(The Power BI dashboard file and its PDF export are located in the `NorthwindProject` folder).*
 
