@@ -37,6 +37,7 @@ For the SQL part, I separated the workflow into two files:
 
 **Page 2: Operations & Discounts Impact**
 * **Visuals:** Shipping status distribution, Average shipping days, Net sales by discount percentage, and Top 10 products.
+*  **Note:** The insight sentences under the charts (like "Top 3 Customers Generate 25% of Net Sales") are built with DAX measures, so they update with the data.
 
 ## Notes & Assumptions
 * Gross sales represent sales before discounts, while net sales are calculated after discounts.
