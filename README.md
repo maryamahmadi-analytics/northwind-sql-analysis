@@ -48,4 +48,4 @@ For the SQL part, I separated the workflow into two files:
 
 ## 🔗 Dashboard Preview
 You can view the PDF export of the Power BI dashboard here:
-* [Northwind_Dashboard.pdf]()
+* [Northwind_Dashboard.pdf](NorthwindProject/Northwind_Dashboard.pdf)
