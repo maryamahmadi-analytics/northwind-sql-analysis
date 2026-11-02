@@ -23,7 +23,7 @@ This project is an analysis of the Northwind sample database. The goal was to an
 *   **Discounts:** About 59% of net sales come from non-discounted items.
 
 ##  Project Files
-All project files are organized inside the **`NorthwindProject`** folder:
+All project files are organized inside the **`[NorthwindProject](https://github.com/maryamahmadi-analytics/northwind-sql-analysis/tree/main/NorthwindProject)`** folder:
 *   `/sql`: Contains the SQL scripts (Data cleaning & Views).
 *   `/dashboard`: Contains the Power BI file and PDF export.
 
