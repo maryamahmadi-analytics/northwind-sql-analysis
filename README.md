@@ -45,4 +45,4 @@ All project files are organized inside the **`[NorthwindProject](https://github.
 
 ##  Dashboard Preview
 You can view the PDF export of the Power BI dashboard here:
-*   [Northwind_Dashboard.pdf](./NorthwindProject/dashboard/Northwind_Dashboard.pdf) 
+*   [Northwind_Dashboard.pdf]([./NorthwindProject/dashboard/Northwind_Dashboard.pdf](https://github.com/maryamahmadi-analytics/northwind-sql-analysis/blob/main/NorthwindProject/Northwind_Dashboard.pdf)) 
