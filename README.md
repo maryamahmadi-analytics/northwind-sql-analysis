@@ -23,12 +23,12 @@ This project is an analysis of the Northwind sample database. The goal was to an
 * **Discounts:** About 59% of net sales come from non-discounted items.
 
 ## Project Files
-All project files are organized inside the **`NorthwindProject`** folder. 
+All project files are organized inside the **[NorthwindProject](NorthwindProject)** folder. 
 For the SQL part, I separated the workflow into two files:
-1. **`NorthwindProject/Northwind_Analysis.sql`**: Contains the initial data exploration, cleaning, and general analytical queries (EDA).
-2. **`NorthwindProject/Northwind_Views.sql`**: Contains the final `CREATE VIEW` scripts. These views were specifically created to feed the Power BI model, keeping the dashboard fast and optimized.
+1. **[Northwind_Analysis.sql](NorthwindProject/Northwind_Analysis.sql)**: Contains the initial data exploration, cleaning, and general analytical queries (EDA).
+2. **[Northwind_Views.sql](NorthwindProject/Northwind_Views.sql)**: Contains the final `CREATE VIEW` scripts. These views were specifically created to feed the Power BI model, keeping the dashboard fast and optimized.
 
-*(The Power BI dashboard file and its PDF export are located in the `NorthwindProject` folder).*
+*(The Power BI dashboard file and its PDF export are located in the [NorthwindProject](NorthwindProject) folder).*
 
 ## Dashboard Pages
 **Page 1: Sales Overview**
